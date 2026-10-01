@@ -1,11 +1,10 @@
 # Gym Tracker
 
-Avvio: `python main.py` (serve Python 3.9+ con tkinter, già incluso su Windows/macOS).
+Run with: python main.py (requires Python 3.9+ with tkinter, already included on Windows/macOS).
 
-- `main.py`: entry point, apre la GUI
-- `core/`: logica pura (`logic.py`) e salvataggio JSON (`storage.py`)
-- `gui/`: finestra e schede (Allenamento, Progressione, Panoramica, Settimana, Esercizi)
-- `data/gym_data.json`: i tuoi dati (creato al primo salvataggio)
+main.py: entry point, opens the GUI
+core/: pure logic (logic.py) and JSON storage (storage.py)
+gui/: window and tabs (Workout, Progress, Overview, Week, Exercises)
+data/gym_data.json: your data (created on first save)
 
-Esercizi di tipo **Forza** (peso x reps, double progression opzionale) o **Cardio** (km e minuti).
-Ogni sessione è legata a un giorno della settimana: progressione, PR e stalli si possono filtrare per giorno.
+Exercises are either Strength (weight x reps, optional double progression) or Cardio (km and minutes). Each session is tied to a day of the week: progression, PRs and plateaus can be filtered by day.
