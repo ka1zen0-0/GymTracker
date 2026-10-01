@@ -1,5 +1,3 @@
-<img width="360" height="360" alt="360_F_207114637_7o5RqH69WsjqgHUbQtBMIxcX93e9p5Un" src="https://github.com/user-attachments/assets/0397dc2b-2d4c-4d7d-b732-3015dc6fc7d3" />
-
 # Gym Tracker
 
 Avvio: `python main.py` (serve Python 3.9+ con tkinter, già incluso su Windows/macOS).
